@@ -1,0 +1,13 @@
+<!doctype html>
+	<head>
+		<title>Log Out</title>
+	</head>
+	<body bgcolor="#FEE9E1">
+		<div>
+			<center><b><font size=28 face="Garamond" color="#64B6AC">Thank you</font></b></center>
+		</div>
+		<div>
+			<center><b><font color="#64B6AC">You have been logged out</font></b></center>
+		</div>
+	</body>
+</html>
