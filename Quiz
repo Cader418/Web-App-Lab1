@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+	<head>
+		<title>Quiz</title>
+	</head>
+	<body bgcolor="#FEE9E1">
+		<div>
+			<center><b><font size=28 face="Garamond" color="#64B6AC">Take the Quiz</font></b></center>
+		</div>
+		<div>
+			<table align="center" border=2 style="border-collapse: collapse;" bgcolor="#B09E99">
+				<tr>
+					<td><font color="#C0FDFB">Q1: What color is the sky?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q0" value="q0.1" id="q0.1"> Red </input>
+						<input type="radio" name="q0" value="q0.2" id="q0.2"> Blue </input>
+						<input type="radio" name="q0" value="q0.3" id="q0.3"> Green </input>
+						<input type="radio" name="q0" value="q0.4" id="q0.4"> Purple </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q2: Who founded JBU?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q1" value="q1.1" id="q1.1"> John Brown </input>
+						<input type="radio" name="q1" value="q1.2" id="q1.2"> Caden </input>
+						<input type="radio" name="q1" value="q1.3" id="q1.3"> Maria </input>
+						<input type="radio" name="q1" value="q1.4" id="q1.4"> Dr. Justus </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q3: Which is not a data type?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q2" value="q2.1" id="q2.1"> int </input>
+						<input type="radio" name="q2" value="q2.2" id="q2.2"> double </input>
+						<input type="radio" name="q2" value="q2.3" id="q2.3"> string </input>
+						<input type="radio" name="q2" value="q2.4" id="q2.4"> for </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q4: What language was this webpage made in?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q3" value="q3.1" id="q3.1"> java </input>
+						<input type="radio" name="q3" value="q3.2" id="q3.2"> html </input>
+						<input type="radio" name="q3" value="q3.3" id="q3.3"> c </input>
+						<input type="radio" name="q3" value="q3.4" id="q3.4"> python </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q5: Who created this quiz?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q4" value="q4.1" id="q4.1"> Maria </input>
+						<input type="radio" name="q4" value="q4.2" id="q4.2"> Dr. Justus </input>
+						<input type="radio" name="q4" value="q4.3" id="q4.3"> Caden </input>
+						<input type="radio" name="q4" value="q4.4" id="q4.4"> John Brown </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q6: Who is the current president of JBU?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q5" value="q5.1" id="q5.1"> John Brown </input>
+						<input type="radio" name="q5" value="q5.2" id="q5.2"> John Brown II </input>
+						<input type="radio" name="q5" value="q5.3" id="q5.3"> John Brown III </input>
+						<input type="radio" name="q5" value="q5.4" id="q5.4"> Chip Pollard </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q7: How many questions are in this quiz?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q6" value="q6.1" id="q6.1"> 1 </input>
+						<input type="radio" name="q6" value="q6.2" id="q6.2"> 20 </input>
+						<input type="radio" name="q6" value="q6.3" id="q6.3"> 10 </input>
+						<input type="radio" name="q6" value="q6.4" id="q6.4"> 5 </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q8: What is used for branching?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q7" value="q7.1" id="q7.1"> for </input>
+						<input type="radio" name="q7" value="q7.2" id="q7.2"> if </input>
+						<input type="radio" name="q7" value="q7.3" id="q7.3"> double </input>
+						<input type="radio" name="q7" value="q7.4" id="q7.4"> functions </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q9: What is the heart of the OS?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q8" value="q8.1" id="q8.1"> Shell </input>
+						<input type="radio" name="q8" value="q8.2" id="q8.2"> Kernel </input>
+						<input type="radio" name="q8" value="q8.3" id="q8.3"> Colonel </input>
+						<input type="radio" name="q8" value="q8.4" id="q8.4"> Console </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td><font color="#C0FDFB">Q10: Is this the last question?</font></td>
+					<td><font color="#C0FDFB">
+						<input type="radio" name="q9" value="q9.1" id="q9.1"> Yes </input>
+						<input type="radio" name="q9" value="q9.2" id="q9.2"> No </input>
+						<input type="radio" name="q9" value="q9.3" id="q9.3"> I don't know </input>
+						<input type="radio" name="q9" value="q9.4" id="q9.4"> Where am I </input>
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2"><center><a href="Lab1Logout.html"><button style="background-color: #FEE9E1; color: #64B6AC; font-weight:bold;" name="submit" id="submit">Submit</button></a></center></td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
