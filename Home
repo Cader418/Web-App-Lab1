@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+	<head>
+		<title>Home</title>
+	</head>
+	<body bgcolor="#FEE9E1">
+		<div>
+			<center><b><font size=28 face="Garamond" color="#64B6AC">Welcome to the Home page</font></b></center>
+		</div>
+		<div align="center">
+			<table border=2 style="border-collapse: collapse;" bgcolor="#B09E99">
+				<tr>
+					<td><font size=6 color="#C0FDFB">Choose your specification</font></td>
+				</tr>
+				<tr>
+					<td><select style = "width: 335px" color="#C0FDFB" id="major" name="major">
+						<option align="center" value="CS">Computer Science</option>
+						<option align="center" value="CM">Construction Management</option>
+						<option align="center" value="EE">Electrical Engineering</option>
+						<option align="center" value="ME">Mechanical Engineering</option>
+						<option align="center" value="Bio">Biology</option>
+						<option align="center" value="Chem">Chemistry</option>
+						<option align="center" value="M">Mathmatics</option>
+						<option align="center" value="ES">Exercise Science</option>
+						<option align="center" value="Psy">Psychology</option>
+						<option align="center" value="Ed">Education</option>
+						<option align="center" value="Eng">English</option>
+						<option align="center" value="PS">Political Science</option>
+						<option align="center" value="Phi">Philosophy</option>
+						<option align="center" value="His">History</option>
+						<option align="center" value="Com">Communications</option>
+						<option align="center" value="BS">Biblical Studies</option>
+						<option align="center" value="Spa">Spanish</option>
+						<option align="center" value="FHS">Family and Human Services</option>
+						<option align="center" value="WA">Worship Arts</option>
+						<option align="center" value="Cin">Cinema</option>
+						</select></td>
+				</tr>
+				<tr>
+					<td><font color="#64B6AC"><center><b><a href="Lab1Quiz.html"><button style="background-color: #FEE9E1; color: #64B6AC; font-weight:bold;" name="submit" id="submit">Next</button></a></b></center></font></td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
